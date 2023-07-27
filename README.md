@@ -49,5 +49,8 @@ The Note Taker app provides the following API routes for managing notes:
 - Data Storage:
 1. JSON file (./db/notes.json)
 
+## Deployed Application
+https://calm-sands-77396-84b5d87f8ca6.herokuapp.com/
+
 ## License
 The Note Taker app is licensed under the MIT License.
