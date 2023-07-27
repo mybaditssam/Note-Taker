@@ -49,6 +49,10 @@ The Note Taker app provides the following API routes for managing notes:
 - Data Storage:
 1. JSON file (./db/notes.json)
 
+## Screenshots
+<img width="1361" alt="Screenshot 2023-07-27 at 2 46 22 PM" src="https://github.com/mybaditssam/Note-Taker/assets/127529427/9c2e72b8-f8fd-4fe2-806a-257838a797d2">
+<img width="1272" alt="Screenshot 2023-07-27 at 2 46 30 PM" src="https://github.com/mybaditssam/Note-Taker/assets/127529427/3dfdd4c4-3314-4494-a438-ac709e0acb2d">
+
 ## Deployed Application
 https://calm-sands-77396-84b5d87f8ca6.herokuapp.com/
 
